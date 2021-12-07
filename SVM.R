@@ -1,7 +1,3 @@
-# First Name  : Sahil Mahendra
-# Last Name   : Mody
-# CWID        : 20007262
-# Homework    : Q9
 rm(list=ls())
 
 #importing the dataset 
